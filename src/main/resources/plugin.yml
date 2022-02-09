@@ -1,0 +1,16 @@
+name: VMore
+version: '${project.version}'
+main: net.thegost.Core
+api-version: 1.18
+authors: [ TheGost ]
+description: Test
+website: none
+commands:
+  whois:
+    description: Affiche les stats dun joueur
+  mod:
+    description: Interface de moderation
+  freeze:
+    description: Gele un joueur
+  invsee:
+    description: Inspecte linventaire dun joueur

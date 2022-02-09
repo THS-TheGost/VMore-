@@ -1,0 +1,19 @@
+#Copyright TheGost_ 2021©
+#Almost everything can be modified
+#Only modify things with a "*" before.
+
+#*
+messages:
+  join: "&b[&a+&b] &a:"
+  leave: "&b[&c-&b] &a:"
+  vanish:
+    von: "&eVanish : &aON"
+    voff: "&eVanish : &cOFF"
+  freeze:
+    freezemsg: "&8&lRejoins &a&nhttps://discord.gg"
+    setfreeze: "&aVous venez d'être freeze!"
+    removefreeze: "&bVous n'êtes plus freeze!"
+  modcmd:
+    modon: "&aModérateur mode - ON"
+    modoff: "&aModérateur mode - &cOFF"
+  noperm: "&cTu n'as pas la permission pour exécuter ceci!"
